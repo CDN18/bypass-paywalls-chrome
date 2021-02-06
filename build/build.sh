@@ -9,6 +9,12 @@ sed 's/src\/.*\///g' ../manifest.json > temp-chrome-manifest.json
 # Strip subdirectories for Firefox manifest
 sed 's/src\/.*\///g' ../manifest-ff.json > temp-ff-manifest.json
 
+# Fix update url for Chrome manifest
+sed -i 's/updates\.xml/src\/updates\/updates.xml/g' temp-chrome-manifest.json
+
+# Fix update url for Firefox manifest
+sed -i 's/updates\.json/src\/updates\/updates.json/g' temp-ff-manifest.json
+
 # Strip subdirectories for background.js
 sed 's/src\/.*\///g' ../src/js/background.js > temp-background.js
 
@@ -33,7 +39,7 @@ rm -f $NAME.crx $NAME.xpi
 7z a -tzip -mx9 $NAME.crx $CH_FILES
 7z rn $NAME.crx temp-chrome-manifest.json manifest.json temp-background.js background.js temp-options.html options.html temp-popup.html popup.html
 
-# Generate Firefox .xpi extension package (Firefox manifest)
+# Generate Firefox .xpi extension package (firefox manifest)
 7z a -tzip -mx9 $NAME.xpi $FF_FILES
 7z rn $NAME.xpi temp-ff-manifest.json manifest.json temp-background.js background.js temp-options.html options.html temp-popup.html popup.html
 
