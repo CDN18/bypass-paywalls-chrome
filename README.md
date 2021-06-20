@@ -47,9 +47,9 @@
 [De Gelderlander](https://www.gelderlander.nl)\
 [De Groene Amsterdammer](https://www.groene.nl)\
 [De Stentor](https://www.destentor.nl)\
+[De Speld](https://speld.nl)\
 [De Tijd](https://www.tijd.be)\
 [De Volkskrant](https://www.volkskrant.nl)\
-[DELFI](https://www.delfi.ee)\
 [DeMorgen](https://www.demorgen.be)\
 [Denver Post](https://www.denverpost.com)\
 [Diario Financiero](https://www.df.cl)\
@@ -58,10 +58,12 @@
 [Eindhovens Dagblad](https://www.ed.nl)\
 [El Mercurio](https://www.elmercurio.com)\
 [El Pais](https://www.elpais.com/)\
+[El Periodico](https://www.elperiodico.com/)\
 [Elu24](https://www.elu24.ee)\
 [Encyclopedia Britannica](https://www.britannica.com)\
 [Estadão](https://www.estadao.com.br)\
 [Examiner](https://www.examiner.com.au)\
+[Expansión](https://www.expansion.com)\
 [Financial News](https://www.fnlondon.com)\
 [Financial Post](https://www.financialpost.com)\
 [Financial Times](https://www.ft.com)\
@@ -94,7 +96,7 @@
 [La Tercera](https://www.latercera.com)\
 [La Voix du Nord](https://www.lavoixdunord.fr/)\
 [Le Devoir](https://www.ledevoir.com)\
-[Le Parisien](http://www.leparisien.fr)\
+[Le Parisien](https://www.leparisien.fr)\
 [Les Échos](https://www.lesechos.fr)\
 [Loeb Classical Library](https://www.loebclassics.com)\
 [London Review of Books](https://www.lrb.co.uk)\
@@ -121,7 +123,9 @@
 [Postimees](https://www.postimees.ee)\
 [Quartz](https://qz.com)\
 [Quora](https://www.quora.com)\
+[Quotidiani Gelocal](https://quotidiani.gelocal.it)\
 [Republic.ru](https://republic.ru)\
+[Reuters](https://www.reuters.com)\
 [San Diego Union Tribune](https://www.sandiegouniontribune.com)\
 [San Francisco Chronicle](https://www.sfchronicle.com)\
 [Scientific American](https://www.scientificamerican.com)\
@@ -186,7 +190,8 @@
 [Vulture](https://www.vulture.com/)\
 [Winston-Salem Journal](https://journalnow.com)\
 [Wired](https://www.wired.com)\
-[World Politics Review](https://www.worldpoliticsreview.com)
+[World Politics Review](https://www.worldpoliticsreview.com)\
+[Zeit Online](https://www.zeit.de)
 
 ### Sites with limited number of free articles
 The free article limit can normally be bypassed by removing cookies for the site.*
